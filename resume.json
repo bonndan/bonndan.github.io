@@ -1,0 +1,313 @@
+{
+  "basics": {
+    "name": "Dr. Daniel Pozzi",
+    "picture": "http://www.gravatar.com/avatar/b8c4be1f3611af43fd5233104cd3ed5a.png",
+    "email": "bonndan76@googlemail.com",
+    "summary": "Interdisciplinary Tech Enthusiast",
+    "location": {
+      "address": "",
+      "postalCode": "53117",
+      "city": "Bonn",
+      "countryCode": "DE",
+      "region": "NRW"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "bonndan",
+        "url": "https://github.com/bonndan"
+      },
+      {
+        "network": "XING",
+        "username": "Daniel_Pozzi",
+        "url": "https://www.xing.com/profile/Daniel_Pozzi"
+      },
+      {
+        "network": "linkedIn",
+        "username": "daniel-pozzi",
+        "url": "https://www.linkedin.com/pub/daniel-pozzi/73/a54/891?trk=pub-pbmap"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "leanIX",
+      "position": "System Architect, Developer",
+      "website": "http://leanix.net",
+      "startDate": "2014-05-01",
+      "summary": "leanIX helps companies to create and sustain a smart information hub about their application landscape.",
+      "highlights": [
+        "multi tenancy SSO system using Shibboleth and OAuth",
+        "Docker and ansible based continous deployment and delivery",
+        "Design and implementation of a REST microservice infrastructure",
+        "Programming in Java and PHP",
+	"Business Reports using R"
+      ]
+    },
+    {
+      "company": "i22.de",
+      "position": "System Architect, Consultant",
+      "website": "http://i22.de",
+      "startDate": "2011-07-01",
+      "endDate": "2014-04-30",
+      "summary": "Digital agency",
+      "highlights": [
+        "Solution development with customers",
+        "Planning and design of applications",
+        "Cost estimation, tender preparation",
+        "Technical project management",
+        "Programming in PHP, Javascript",
+        "Database design",
+        "Service API design",
+        "Continous Integration",
+        "Test driven development"
+      ]
+    },
+    {
+      "company": "m2soft",
+      "position": "Programmer, Lead Developer",
+      "website": "http://m2soft.de",
+      "startDate": "2009-07-01",
+      "endDate": "2011-06-31",
+      "summary": "Custom made software",
+      "highlights": [
+        "Planning and design of applications",
+        "Technical project management",
+        "Programming in PHP, Javascript",
+        "Quality control",
+        "Creation of docs and specs"
+      ]
+    },
+    {
+      "company": "RichRecipe.com",
+      "position": "Entrepreneur, Market Research Consultant",
+      "website": "",
+      "startDate": "2007-08-01",
+      "endDate": "2009-06-31",
+      "summary": "Startup featuring a better cooking experience through advanced recipes.",
+      "highlights": [
+        "Implementation of a MVP",
+        "Market research and statistical evaluation"
+      ]
+    },
+    {
+      "company": "University of Bonn",
+      "position": "Research assistant",
+      "website": "http://www.landtechnik.uni-bonn.de/forschung/haushaltstechnik",
+      "startDate": "2004-05-01",
+      "endDate": "2007-06-31",
+      "summary": "Dissertation project in cooperation with Electrolux",
+      "highlights": [
+        "Usability tests",
+        "Stress measurement",
+        "Market research"
+      ]
+    },
+    {
+      "company": "University of Bonn",
+      "position": "Student assistant",
+      "website": "",
+      "startDate": "2004-05-01",
+      "endDate": "2007-06-31",
+      "summary": "Employments as student assistant in two institutes",
+      "highlights": [
+        "Coordination and evaluation of a round-robin dishwasher test",
+        "Programming of a B2B trading platform for agricultural products"
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "University of Bonn",
+      "area": "Appliance Technology",
+      "studyType": "Doctoral Thesis Development and Evaluation of a Prototype of an Electronic Cookbook",
+      "startDate": "2004-05-01",
+      "endDate": "2007-08-01",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Bonn",
+      "area": "Nutrition and household sciences",
+      "studyType": "Diploma",
+      "startDate": "1997-09-01",
+      "endDate": "2004-04-30",
+      "gpa": "",
+      "courses": [
+          "Appliance Technology",
+          "Microbiology",
+          "Economics",
+          "Statistics"
+      ]
+    },
+    {
+      "institution": "Gymnasium Haan",
+      "area": "university-entrance diploma",
+      "studyType": "Abitur",
+      "startDate": "1997-09-01",
+      "endDate": "2004-04-30",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best student paper award",
+      "date": "2005-03-01",
+      "awarder": "IATC",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "REST APIs dokumentieren mit Swagger",
+      "publisher": "leanIX GmbH",
+      "releaseDate": "2015-08-01",
+      "website": "http://programm.froscon.de/2015/events/1581.html",
+      "summary": "How to document REST Apis using swagger (German)"
+    },
+    {
+      "name": "Automatisierung mit Ansible und Jenkins",
+      "publisher": "leanIX GmbH",
+      "releaseDate": "2014-10-01",
+      "website": "http://de.slideshare.net/leanIX_net/codetalks2014",
+      "summary": "How to focus on product development by automating side tasks (German)"
+    },
+    {
+      "name": "Development and Evaluation of a Prototype of an Electronic Cookbook",
+      "publisher": "Shaker",
+      "releaseDate": "2008-01-01",
+      "website": "http://www.shaker.de/de/content/catalogue/index.asp?lang=de&ID=8&ISBN=978-3-8322-6856-5"
+    },
+    {
+      "name": "A Multidisciplinary Concept to Evaluate Acceptance of Innovative Domestic Technology",
+      "publisher": "J. Stephens, 56th Annual International Appliance Technical Conference and Exhibition. Rosemont, IL, U.S.",
+      "releaseDate": "2005-01-01",
+      "website": "http://www.appliancedesign.com"
+    },
+    {
+      "name": "Untersuchung Zur Akzeptanz Intelligenter Haustechnik",
+      "publisher": "in E. Baier, Spülen und Reinigen - Schmutz und harte Oberflächen. Shaker",
+      "releaseDate": "2003-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "misc",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "misc",
+      "keywords": [
+        "PHP",
+        "Java",
+        "Git",
+	"R"
+      ]
+    },
+    {
+      "name": "Operations",
+      "level": "misc",
+      "keywords": [
+        "Apache2",
+        "nginx",
+        "Tomcat",
+        "Docker",
+        "Ansible",
+        "ant, maven, composer, npm..."
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "misc",
+      "keywords": [
+        "Twitter Bootstrap",
+        "Zend1",
+        "Symfony 2",
+        "Doctrine 2",
+        "JQuery",
+        "angularJS",
+        "Dropwizard",
+        "Hibernate"
+      ]
+    },
+    {
+      "name": "Code Craftmanship",
+      "level": "misc",
+      "keywords": [
+        "Design patterns",
+        "Refactoring",
+        "Code analysis and metrics",
+        "Agile development",
+        "Continous integration and deployment"
+      ]
+    },
+    {
+      "name": "Concepts",
+      "level": "misc",
+      "keywords": [
+        "REST microservices",
+        "UML",
+        "Accessibility",
+        "OAuth2",
+        "SAML SSO"
+      ]
+    },
+    {
+      "name": "Applications and OSs",
+      "level": "misc",
+      "keywords": [
+        "Linux",
+	"Mac OS X",
+        "Office",
+        "Netbeans IDE",
+        "LaTeX"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "fluent"
+    },
+    {
+      "language": "Italian",
+      "fluency": "basic"
+    }
+  ],
+  "interests": [
+    {
+	"name": "my family"
+    },
+    {
+      "name": "Volleyball",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Open Source Movement",
+      "keywords": [
+      ]
+    },
+    {
+	"name": "some Cooking and Gardening"
+    }
+  ],
+  "references": [
+
+  ]
+}
