@@ -31,17 +31,29 @@
   },
   "work": [
     {
+      "company": "Haeger Consulting",
+      "position": "IT Consultant",
+      "website": "http://www.haeger-consulting.de/",
+      "startDate": "2016-04-01",
+      "summary": "Reinforcement for IT projects",
+      "highlights": [
+        "Business Analyst",
+        "Full-stack programmer"
+      ]
+    },
+    {
       "company": "leanIX",
       "position": "System Architect, Developer",
       "website": "http://leanix.net",
       "startDate": "2014-05-01",
-      "summary": "leanIX helps companies to create and sustain a smart information hub about their application landscape.",
+      "endDate": "2016-03-31",
+      "summary": "Architect of the leanIX ecosystem",
       "highlights": [
         "multi tenancy SSO system using Shibboleth and OAuth",
         "Docker and ansible based continous deployment and delivery",
         "Design and implementation of a REST microservice infrastructure",
         "Programming in Java and PHP",
-	"Business Reports using R"
+	    "Business Reports using R"
       ]
     },
     {
@@ -50,7 +62,7 @@
       "website": "http://i22.de",
       "startDate": "2011-07-01",
       "endDate": "2014-04-30",
-      "summary": "Digital agency",
+      "summary": "Worked as full-stack programmer and project manager",
       "highlights": [
         "Solution development with customers",
         "Planning and design of applications",
@@ -69,7 +81,7 @@
       "website": "http://m2soft.de",
       "startDate": "2009-07-01",
       "endDate": "2011-06-31",
-      "summary": "Custom made software",
+      "summary": "Developed custom made software",
       "highlights": [
         "Planning and design of applications",
         "Technical project management",
